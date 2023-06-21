@@ -22,7 +22,7 @@ const Login = () => {
     <main className='w-full font-disp h-screen flex justify-center flex-col items-center bg-gradient-to-br from-mSec  to-dSec '>
       <div className='lg:px-20 lg:pb-12 px-10 py-8 bg-gray-700 text-white text-lg shadow-xl shadow-gray-800 rounded-3xl text-center '>
         {/*     Title */}
-        <h1 className=" my-4 lg:text-3xl text-2xl mb-10">Chat App</h1>
+        <h1 className=" my-4 lg:text-3xl text-2xl mb-10">Chatur App</h1>
         {/*     FORM   */}
         {/* <div className='mt-10 text-white text-lg'>
           <div className="">
